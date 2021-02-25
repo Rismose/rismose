@@ -1,4 +1,4 @@
-![Rismose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rismose&show_icons=true&theme=gotham)
+![Rismose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rismose&show_icons=true&theme=gotham&hide=prs)
 
 
 <!--
